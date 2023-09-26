@@ -1,1 +1,1 @@
-# move-mailbox-from-ExchangeOnline-to-on_premises
+You already did move mailboxes from Exchange on-premises to Exchange Online. What if you want to move a mailbox back to Exchange on-premises? The term is also known as offboarding a mailbox from the cloud. One of the reasons you wish to offboard a mailbox is that applications are not Office 365 ready, and you have to move the mailbox from Exchange Online to on-premises.
